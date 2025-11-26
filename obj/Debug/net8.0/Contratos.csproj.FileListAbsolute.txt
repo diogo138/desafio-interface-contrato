@@ -1,0 +1,14 @@
+/home/diogohenrique/Estudos/Projetos/Contratos/Contratos/bin/Debug/net8.0/Contratos
+/home/diogohenrique/Estudos/Projetos/Contratos/Contratos/bin/Debug/net8.0/Contratos.deps.json
+/home/diogohenrique/Estudos/Projetos/Contratos/Contratos/bin/Debug/net8.0/Contratos.runtimeconfig.json
+/home/diogohenrique/Estudos/Projetos/Contratos/Contratos/bin/Debug/net8.0/Contratos.dll
+/home/diogohenrique/Estudos/Projetos/Contratos/Contratos/bin/Debug/net8.0/Contratos.pdb
+/home/diogohenrique/Estudos/Projetos/Contratos/Contratos/obj/Debug/net8.0/Contratos.GeneratedMSBuildEditorConfig.editorconfig
+/home/diogohenrique/Estudos/Projetos/Contratos/Contratos/obj/Debug/net8.0/Contratos.AssemblyInfoInputs.cache
+/home/diogohenrique/Estudos/Projetos/Contratos/Contratos/obj/Debug/net8.0/Contratos.AssemblyInfo.cs
+/home/diogohenrique/Estudos/Projetos/Contratos/Contratos/obj/Debug/net8.0/Contratos.csproj.CoreCompileInputs.cache
+/home/diogohenrique/Estudos/Projetos/Contratos/Contratos/obj/Debug/net8.0/Contratos.dll
+/home/diogohenrique/Estudos/Projetos/Contratos/Contratos/obj/Debug/net8.0/refint/Contratos.dll
+/home/diogohenrique/Estudos/Projetos/Contratos/Contratos/obj/Debug/net8.0/Contratos.pdb
+/home/diogohenrique/Estudos/Projetos/Contratos/Contratos/obj/Debug/net8.0/Contratos.genruntimeconfig.cache
+/home/diogohenrique/Estudos/Projetos/Contratos/Contratos/obj/Debug/net8.0/ref/Contratos.dll
